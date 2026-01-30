@@ -4,6 +4,15 @@
 
 This is a minimal Vite + Vue 3 library starter template that uses pnpm workspace for dependency management. It provides a ready-to-use structure for creating Vue 3 component libraries with TypeScript support, designed to streamline the bootstrap process for library developers.
 
+## Usage
+
+To use this starter as a skill, run the following commands:
+
+```bash
+# Add starter skill
+npx skills add https://github.com/lizyChy0329/vite-lib-vue-pnpm-starter-skill.git --skill vite-lib-vue-pnpm-starter-skill
+```
+
 ## What is it used for?
 
 This starter template is designed to help developers quickly set up a Vue 3 component library with the following capabilities:
@@ -82,15 +91,6 @@ project-root/
 │       ├── style.css
 │       └── assets/
 └── dist/ (generated after build)
-```
-
-## Usage
-
-To use this starter as a skill, run the following commands:
-
-```bash
-# Add starter skill
-npx skills add https://github.com/lizyChy0329/vite-lib-vue-pnpm-starter-skill.git --skill vite-lib-vue-pnpm-starter-skill
 ```
 
 ## Getting Started
