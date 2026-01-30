@@ -90,7 +90,7 @@ To use this starter as a skill, run the following commands:
 
 ```bash
 # Add starter skill
-npx skills add https://github.com/lizyChy0329/vite-lib-vue-pnpm-starter-skill.git --skill vite-lib-vue-pnpm-starter
+npx skills add https://github.com/lizyChy0329/vite-lib-vue-pnpm-starter-skill.git --skill vite-lib-vue-pnpm-starter-skill
 ```
 
 ## Getting Started
